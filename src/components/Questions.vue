@@ -85,6 +85,7 @@ $module: "questions";
 
     &__label {
         width: em(150);
+        margin-right: em(16);
     }
 
     &__input {

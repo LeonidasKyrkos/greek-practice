@@ -1,0 +1,30 @@
+[
+    {
+        "english": "monday",
+        "greek": "δευτέρα"
+    },
+    {
+        "english": "tuesday",
+        "greek": "τρίτη"
+    },
+    {
+        "english": "wednesday",
+        "greek": "τετάρτη"
+    },
+    {
+        "english": "thursday",
+        "greek": "πέμπτη"
+    },
+    {
+        "english": "friday",
+        "greek": "παρασκευή"
+    },
+    {
+        "english": "saturday",
+        "greek": "σάββατo"
+    },
+    {
+        "english": "sunday",
+        "greek": "κυριακή"
+    }
+]

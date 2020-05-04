@@ -13,6 +13,10 @@
                 <h2 class="beta">Cases</h2>
                 <questions :questions="randomCases"></questions>
             </section>
+            <section class="section">
+                <h2 class="beta">Days of the week</h2>
+                <questions :questions="dayQuestions"></questions>
+            </section>
         </div>
     </article>
 </template>
@@ -20,13 +24,17 @@
 <script>
 import Questions from "@/components/Questions.vue";
 
+import { format, add, sub } from "date-fns";
+
 import numbers from "@/data/numbers.json";
 import cases from "@/data/cases.json";
 import verbs from "@/data/verbs.json";
+import daysOfTheWeek from "@/data/days_of_the_week.json";
 
 const numbersArray = [...numbers];
 const verbsArray = [...verbs];
 const casesArray = [...cases];
+const daysOfTheWeekArray = [...daysOfTheWeek];
 
 export default {
     name: "Home",
@@ -42,6 +50,31 @@ export default {
         },
         randomCases() {
             return this.newArray(casesArray);
+        },
+        dayQuestions() {
+            return [
+                {
+                    english: "today",
+                    greek: "σήμερα",
+                },
+                {
+                    english: "tomorrow",
+                    greek: "αύριο",
+                },
+                {
+                    english: "yesterday",
+                    greek: "εχθές",
+                },
+                {
+                    english: "day after tomorrow",
+                    greek: "μεθαύριο",
+                },
+                {
+                    english:
+                        daysOfTheWeekArray[new Date().getDay() - 1].english,
+                    greek: daysOfTheWeekArray[new Date().getDay() - 1].greek,
+                },
+            ];
         },
     },
     methods: {
@@ -79,6 +112,12 @@ $module: "home";
 
         .section {
             width: calc(50% - #{em(32)});
+        }
+
+        @include mqMax(l-a) {
+            .section {
+                width: 100%;
+            }
         }
     }
 }
