@@ -1,0 +1,30 @@
+%button {
+    border: 0;
+    box-shadow: 0;
+    border-radius: 0;
+    display: inline-block;
+    background-image: none;
+    user-select: none;
+    outline: 0;
+    background-color: transparent;
+    color: inherit;
+    font-family: inherit;
+    padding: 0;
+
+    &-primary {
+        @extend %button;
+
+        $fz: 22;
+        font-size: em($fz);
+        background-color: $colorHeadings;
+        color: $colorBackground;
+        font-family: $ffHeadings;
+        padding: em(5, $fz) em(15, $fz);
+        align-self: stretch;
+        border-radius: em(4);
+
+        &:hover {
+            background-color: darken($colorHeadings, 5%);
+        }
+    }
+}

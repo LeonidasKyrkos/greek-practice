@@ -1,0 +1,16 @@
+.hide {
+    display: none !important;
+}
+
+.invisible {
+    visibility: hidden;
+}
+
+.positive {
+    color: $colorPositive;
+}
+
+.error,
+.negative {
+    color: $colorNegative;
+}

@@ -1,0 +1,65 @@
+// variables //
+
+// Typography
+// -------------------------
+
+// family
+$ffBase: "Barlow", sans-serif;
+$ffSecondary: "IBM Plex Mono", sans-serif;
+$ffHeadings: $ffSecondary, serif;
+
+// style
+$fzBase: 18 !default;
+$fzMobile: 16;
+$lhBase: 23 !default;
+$fwBase: 400;
+
+// Colours
+$color1: #0c1221;
+$color2: #feb32b;
+$color3: #f9eae1;
+
+// Colour roles
+$colorBackground: $color1;
+$colorHeadings: $color2;
+$colorBody: $color3;
+$colorNegative: #d9534f;
+$colorPositive: #5cb85c;
+
+// Headings
+// -------------------------
+
+$headings: "alpha", "beta", "gamma", "delta";
+$headingSizes: 40, 24, 20, 16;
+$headingFamilies: $ffHeadings, $ffHeadings, $ffHeadings, $ffHeadings;
+$headingColors: $colorHeadings, $colorHeadings, $colorHeadings, $colorHeadings;
+$headingMargins: 30, 25, 8, 10;
+$headingLineHeights: 48, 30, 26, 22;
+$headingFontWeights: 500, 500, 500, 500;
+$headingCases: none, uppercase, uppercase, uppercase;
+
+$breakpoints: (
+    xl: 1200px,
+    xl-a: 1200px,
+    xl-b: 1150px,
+    xl-c: 1100px,
+    l: 1050px,
+    l-a: 1000px,
+    l-b: 950px,
+    l-c: 900px,
+    m: 850px,
+    m-a: 800px,
+    m-b: 750px,
+    m-b-a: 730px,
+    m-c: 700px,
+    m-c-a: 670px,
+    s: 650px,
+    s--a: 620px,
+    s-a: 600px,
+    s-b: 550px,
+    s-c: 500px,
+    xs: 450px,
+    xs-a: 400px,
+    xs-b: 350px,
+    xs-c: 315px,
+);

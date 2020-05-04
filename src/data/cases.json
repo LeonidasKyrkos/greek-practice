@@ -1,0 +1,50 @@
+[
+    {
+        "english": "Nominative singular male",
+        "greek": "ο"
+    },
+    {
+        "english": "Nominative singular female",
+        "greek": "η"
+    },
+    {
+        "english": "Nominative singular neuter",
+        "greek": "το"
+    },
+    {
+        "english": "Nominative plural male",
+        "greek": "οι"
+    },
+    {
+        "english": "Nominative plural female",
+        "greek": "οι"
+    },
+    {
+        "english": "Nominative plural neuter",
+        "greek": "τα"
+    },
+    {
+        "english": "Accusative singular male",
+        "greek": "τον"
+    },
+    {
+        "english": "Accusative singular female",
+        "greek": "την"
+    },
+    {
+        "english": "Accusative singular neuter",
+        "greek": "το"
+    },
+    {
+        "english": "Accusative plural male",
+        "greek": "τους"
+    },
+    {
+        "english": "Accusative plural female",
+        "greek": "της"
+    },
+    {
+        "english": "Accusative plural neuter",
+        "greek": "τα"
+    }
+]

@@ -1,0 +1,406 @@
+[
+    {
+        "english": "zero",
+        "greek": "μηδέν"
+    },
+    {
+        "english": "one",
+        "greek": "ένα"
+    },
+    {
+        "english": "two",
+        "greek": "δύο"
+    },
+    {
+        "english": "three",
+        "greek": "τρία"
+    },
+    {
+        "english": "four",
+        "greek": "τέσσερα"
+    },
+    {
+        "english": "five",
+        "greek": "πέντε"
+    },
+    {
+        "english": "six",
+        "greek": "έξι"
+    },
+    {
+        "english": "seven",
+        "greek": "επτά"
+    },
+    {
+        "english": "eight",
+        "greek": "οκτώ"
+    },
+    {
+        "english": "nine",
+        "greek": "εννέα"
+    },
+    {
+        "english": "ten",
+        "greek": "δέκα"
+    },
+    {
+        "english": "eleven",
+        "greek": "ενδέκα"
+    },
+    {
+        "english": "twelve",
+        "greek": "δώδεκα"
+    },
+    {
+        "english": "thirteen",
+        "greek": "δεκατρείς"
+    },
+    {
+        "english": "fourteen",
+        "greek": "δεκατέσσερα"
+    },
+    {
+        "english": "fifteen",
+        "greek": "δεκαπέντε"
+    },
+    {
+        "english": "sixteen",
+        "greek": "δεκαέξι"
+    },
+    {
+        "english": "seventeen",
+        "greek": "δεκαεπτά"
+    },
+    {
+        "english": "eighteen",
+        "greek": "δεκαοκτώ"
+    },
+    {
+        "english": "nineteen",
+        "greek": "δεκαεννέα"
+    },
+    {
+        "english": "twenty",
+        "greek": "είκοσι"
+    },
+    {
+        "english": "twenty-one",
+        "greek": "είκοσι ένα"
+    },
+    {
+        "english": "twenty-two",
+        "greek": "είκοσι δύο"
+    },
+    {
+        "english": "twenty-three",
+        "greek": "είκοσι τρία"
+    },
+    {
+        "english": "twenty-four",
+        "greek": "είκοσι τέσσερα"
+    },
+    {
+        "english": "twenty-five",
+        "greek": "είκοσι πεντέ"
+    },
+    {
+        "english": "twenty-six",
+        "greek": "είκοσι έξι"
+    },
+    {
+        "english": "twenty-seven",
+        "greek": "είκοσι επτά"
+    },
+    {
+        "english": "twenty-eight",
+        "greek": "είκοσι οκτώ"
+    },
+    {
+        "english": "twenty-nine",
+        "greek": "είκοσι εννέα"
+    },
+    {
+        "english": "thirty",
+        "greek": "τριάντα"
+    },
+    {
+        "english": "thirty-one",
+        "greek": "τριάντα ένα"
+    },
+    {
+        "english": "thirty-two",
+        "greek": "τριάντα δύο"
+    },
+    {
+        "english": "thirty-three",
+        "greek": "τριάντα τρία"
+    },
+    {
+        "english": "thirty-four",
+        "greek": "τριάντα τέσσερα"
+    },
+    {
+        "english": "thirty-five",
+        "greek": "τριάντα πεντέ"
+    },
+    {
+        "english": "thirty-six",
+        "greek": "τριάντα έξι"
+    },
+    {
+        "english": "thirty-seven",
+        "greek": "τριάντα επτά"
+    },
+    {
+        "english": "thirty-eight",
+        "greek": "τριάντα οκτώ"
+    },
+    {
+        "english": "thirty-nine",
+        "greek": "τριάντα εννέα"
+    },
+    {
+        "english": "forty",
+        "greek": "σαράντα"
+    },
+    {
+        "english": "forty-one",
+        "greek": "σαράντα ένα"
+    },
+    {
+        "english": "forty-two",
+        "greek": "σαράντα δύο"
+    },
+    {
+        "english": "forty-three",
+        "greek": "σαράντα τρία"
+    },
+    {
+        "english": "forty-four",
+        "greek": "σαράντα τέσσερα"
+    },
+    {
+        "english": "forty-five",
+        "greek": "σαράντα πεντέ"
+    },
+    {
+        "english": "forty-six",
+        "greek": "σαράντα έξι"
+    },
+    {
+        "english": "forty-seven",
+        "greek": "σαράντα επτά"
+    },
+    {
+        "english": "forty-eight",
+        "greek": "σαράντα οκτώ"
+    },
+    {
+        "english": "forty-nine",
+        "greek": "σαράντα εννέα"
+    },
+    {
+        "english": "fifty",
+        "greek": "πενήντα"
+    },
+    {
+        "english": "fifty-one",
+        "greek": "πενήντα ένα"
+    },
+    {
+        "english": "fifty-two",
+        "greek": "πενήντα δύο"
+    },
+    {
+        "english": "fifty-three",
+        "greek": "πενήντα τρία"
+    },
+    {
+        "english": "fifty-four",
+        "greek": "πενήντα τέσσερα"
+    },
+    {
+        "english": "fifty-five",
+        "greek": "πενήντα πεντέ"
+    },
+    {
+        "english": "fifty-six",
+        "greek": "πενήντα έξι"
+    },
+    {
+        "english": "fifty-seven",
+        "greek": "πενήντα επτά"
+    },
+    {
+        "english": "fifty-eight",
+        "greek": "πενήντα οκτώ"
+    },
+    {
+        "english": "fifty-nine",
+        "greek": "πενήντα εννέα"
+    },
+    {
+        "english": "sixty",
+        "greek": "εξήντα"
+    },
+    {
+        "english": "sixty-one",
+        "greek": "εξήντα ένα"
+    },
+    {
+        "english": "sixty-two",
+        "greek": "εξήντα δύο"
+    },
+    {
+        "english": "sixty-three",
+        "greek": "εξήντα τρία"
+    },
+    {
+        "english": "sixty-four",
+        "greek": "εξήντα τέσσερα"
+    },
+    {
+        "english": "sixty-five",
+        "greek": "εξήντα πεντέ"
+    },
+    {
+        "english": "sixty-six",
+        "greek": "εξήντα έξι"
+    },
+    {
+        "english": "sixty-seven",
+        "greek": "εξήντα επτά"
+    },
+    {
+        "english": "sixty-eight",
+        "greek": "εξήντα οκτώ"
+    },
+    {
+        "english": "sixty-nine",
+        "greek": "εξήντα εννέα"
+    },
+    {
+        "english": "seventy",
+        "greek": "εβδομήντα"
+    },
+    {
+        "english": "seventy-one",
+        "greek": "εβδομήντα ένα"
+    },
+    {
+        "english": "seventy-two",
+        "greek": "εβδομήντα δύο"
+    },
+    {
+        "english": "seventy-three",
+        "greek": "εβδομήντα τρία"
+    },
+    {
+        "english": "seventy-four",
+        "greek": "εβδομήντα τέσσερα"
+    },
+    {
+        "english": "seventy-five",
+        "greek": "εβδομήντα πεντέ"
+    },
+    {
+        "english": "seventy-six",
+        "greek": "εβδομήντα έξι"
+    },
+    {
+        "english": "seventy-seven",
+        "greek": "εβδομήντα επτά"
+    },
+    {
+        "english": "seventy-eight",
+        "greek": "εβδομήντα οκτώ"
+    },
+    {
+        "english": "seventy-nine",
+        "greek": "εβδομήντα εννέα"
+    },
+    {
+        "english": "eighty",
+        "greek": "ογδόντα"
+    },
+    {
+        "english": "eighty-one",
+        "greek": "ογδόντα ένα"
+    },
+    {
+        "english": "eighty-two",
+        "greek": "ογδόντα δύο"
+    },
+    {
+        "english": "eighty-three",
+        "greek": "ογδόντα τρία"
+    },
+    {
+        "english": "eighty-four",
+        "greek": "ογδόντα τέσσερα"
+    },
+    {
+        "english": "eighty-five",
+        "greek": "ογδόντα πεντέ"
+    },
+    {
+        "english": "eighty-six",
+        "greek": "ογδόντα έξι"
+    },
+    {
+        "english": "eighty-seven",
+        "greek": "ογδόντα επτά"
+    },
+    {
+        "english": "eighty-eight",
+        "greek": "ογδόντα οκτώ"
+    },
+    {
+        "english": "eighty-nine",
+        "greek": "ογδόντα εννέα"
+    },
+    {
+        "english": "ninety",
+        "greek": "ενενήντα"
+    },
+    {
+        "english": "ninety-one",
+        "greek": "ενενήντα ένα"
+    },
+    {
+        "english": "ninety-two",
+        "greek": "ενενήντα δύο"
+    },
+    {
+        "english": "ninety-three",
+        "greek": "ενενήντα τρία"
+    },
+    {
+        "english": "ninety-four",
+        "greek": "ενενήντα τέσσερα"
+    },
+    {
+        "english": "ninety-five",
+        "greek": "ενενήντα πεντέ"
+    },
+    {
+        "english": "ninety-six",
+        "greek": "ενενήντα έξι"
+    },
+    {
+        "english": "ninety-seven",
+        "greek": "ενενήντα επτά"
+    },
+    {
+        "english": "ninety-eight",
+        "greek": "ενενήντα οκτώ"
+    },
+    {
+        "english": "ninety-nine",
+        "greek": "ενενήντα εννέα"
+    },
+    {
+        "english": "one-hundred",
+        "greek": "εκατό"
+    }
+]
