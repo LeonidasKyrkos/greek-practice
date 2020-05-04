@@ -52,7 +52,9 @@ export default {
                     : new Array(array.length).fill();
 
             return arr.map((n, i) => {
-                const randomNumber = Math.round(Math.random() * array.length);
+                const randomNumber = Math.round(
+                    Math.random() * (array.length - 1)
+                );
                 const returnValue = array[randomNumber];
 
                 array.splice(randomNumber, 1);
