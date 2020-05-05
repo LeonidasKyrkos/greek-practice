@@ -14,8 +14,16 @@
                 <questions :questions="randomCases"></questions>
             </section>
             <section class="section">
-                <h2 class="beta">Days of the week</h2>
+                <h2 class="beta">Time</h2>
                 <questions :questions="dayQuestions"></questions>
+            </section>
+            <section class="section">
+                <h2 class="beta">Emotions</h2>
+                <questions :questions="emotions"></questions>
+            </section>
+            <section class="section">
+                <h2 class="beta">Colours</h2>
+                <questions :questions="colours"></questions>
             </section>
         </div>
     </article>
@@ -30,11 +38,8 @@ import numbers from "@/data/numbers.json";
 import cases from "@/data/cases.json";
 import verbs from "@/data/verbs.json";
 import daysOfTheWeek from "@/data/days_of_the_week.json";
-
-const numbersArray = [...numbers];
-const verbsArray = [...verbs];
-const casesArray = [...cases];
-const daysOfTheWeekArray = [...daysOfTheWeek];
+import emotions from "@/data/emotions.json";
+import colours from "@/data/colours.json";
 
 export default {
     name: "Home",
@@ -43,13 +48,13 @@ export default {
     },
     computed: {
         randomNumbers() {
-            return this.newArray(numbersArray);
+            return this.newArray(numbers);
         },
         randomVerbs() {
-            return this.newArray(verbsArray);
+            return this.newArray(verbs);
         },
         randomCases() {
-            return this.newArray(casesArray);
+            return this.newArray(cases);
         },
         dayQuestions() {
             return [
@@ -70,11 +75,16 @@ export default {
                     greek: "μεθαύριο",
                 },
                 {
-                    english:
-                        daysOfTheWeekArray[new Date().getDay() - 1].english,
-                    greek: daysOfTheWeekArray[new Date().getDay() - 1].greek,
+                    english: daysOfTheWeek[new Date().getDay() - 1].english,
+                    greek: daysOfTheWeek[new Date().getDay() - 1].greek,
                 },
             ];
+        },
+        emotions() {
+            return this.newArray(emotions);
+        },
+        colours() {
+            return this.newArray(colours);
         },
     },
     methods: {

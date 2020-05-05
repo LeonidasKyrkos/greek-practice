@@ -10,7 +10,7 @@
                                 type="text"
                                 class="questions__input"
                                 v-model="answers[n]"
-                                :class="{ correct: answers[n] === question.greek }"
+                                :class="{ correct: answers[n].toLowerCase() === question.greek.toLowerCase() }"
                             />
                         </div>
                         <button tabindex="-1" @click="stuck.push(n)" class="questions__stuck">Stuck</button>
