@@ -25,6 +25,10 @@
                 <h2 class="beta">Colours</h2>
                 <questions :questions="colours"></questions>
             </section>
+            <section class="section">
+                <h2 class="beta">Nouns</h2>
+                <questions :questions="nouns"></questions>
+            </section>
         </div>
     </article>
 </template>
@@ -40,6 +44,7 @@ import verbs from "@/data/verbs.json";
 import daysOfTheWeek from "@/data/days_of_the_week.json";
 import emotions from "@/data/emotions.json";
 import colours from "@/data/colours.json";
+import nouns from "@/data/nouns.json";
 
 export default {
     name: "Home",
@@ -85,6 +90,9 @@ export default {
         },
         colours() {
             return this.newArray(colours);
+        },
+        nouns() {
+            return this.newArray(nouns);
         },
     },
     methods: {

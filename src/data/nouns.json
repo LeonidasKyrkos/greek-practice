@@ -1,6 +1,130 @@
 [
     {
-        "english": "",
-        "greek": ""
+        "english": "Bag",
+        "greek": "Τσάντα"
+    },
+    {
+        "english": "Biscuit",
+        "greek": "μπισκότο"
+    },
+    {
+        "english": "Brother",
+        "greek": "αδελφός"
+    },
+    {
+        "english": "Cat",
+        "greek": "Γάτα"
+    },
+    {
+        "english": "Chair",
+        "greek": "Καρέκλα"
+    },
+    {
+        "english": "Chess",
+        "greek": "Σκάκι"
+    },
+    {
+        "english": "Chicken",
+        "greek": "Κοτόπουλο"
+    },
+    {
+        "english": "Christmas",
+        "greek": "Χριστούγεννα"
+    },
+    {
+        "english": "Dad",
+        "greek": "μπαμπάς"
+    },
+    {
+        "english": "England",
+        "greek": "Αγγλία"
+    },
+    {
+        "english": "Glass",
+        "greek": "ποτήρι"
+    },
+    {
+        "english": "Girlfriend",
+        "greek": "φιλενάδα"
+    },
+    {
+        "english": "Greece",
+        "greek": "Ελλάδα"
+    },
+    {
+        "english": "New York",
+        "greek": "Νέα Υόρκη"
+    },
+    {
+        "english": "London",
+        "greek": "Λονδίνο"
+    },
+    {
+        "english": "Holiday",
+        "greek": "Αργία"
+    },
+    {
+        "english": "Money",
+        "greek": "χρήματα"
+    },
+    {
+        "english": "Mobile",
+        "greek": "κινητό"
+    },
+    {
+        "english": "Mum",
+        "greek": "μαμά"
+    },
+    {
+        "english": "Oven / Bakery",
+        "greek": "φούρνος"
+    },
+    {
+        "english": "Picture frame",
+        "greek": "κορνίζα"
+    },
+    {
+        "english": "Pharmacy",
+        "greek": "φαρμακείο"
+    },
+    {
+        "english": "Present",
+        "greek": "δώρο"
+    },
+    {
+        "english": "Rain",
+        "greek": "βροχή"
+    },
+    {
+        "english": "Sister",
+        "greek": "αδελφή"
+    },
+    {
+        "english": "Sorry",
+        "greek": "συγνώμη"
+    },
+    {
+        "english": "Table",
+        "greek": "τραπέζι"
+    },
+    {
+        "english": "Bank",
+        "greek": "τράπεζα"
+    },
+    {
+        "english": "Time / Year",
+        "greek": "χρόνος"
+    },
+    {
+        "english": "Turkey",
+        "greek": "Τουρκία"
+    },
+    {
+        "english": "Window",
+        "greek": "Παράθυρο"
+    },
+    {
+        "english": "Wine",
+        "greek": "κρασί"
     }
 ]
