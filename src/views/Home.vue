@@ -33,6 +33,10 @@
                 <h2 class="beta">Prepositions</h2>
                 <questions :questions="prepositions"></questions>
             </section>
+            <section class="section">
+                <h2 class="beta">Days of the week</h2>
+                <questions :questions="daysOfTheWeek"></questions>
+            </section>
         </div>
     </article>
 </template>
