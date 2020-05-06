@@ -1,0 +1,50 @@
+[
+    {
+        "english": "January",
+        "greek": "Ιανουάριος"
+    },
+    {
+        "english": "February",
+        "greek": "Φεβρουάριος"
+    },
+    {
+        "english": "March",
+        "greek": "Μάρτιος"
+    },
+    {
+        "english": "April",
+        "greek": "Απρίλιος"
+    },
+    {
+        "english": "May",
+        "greek": "Μάιος"
+    },
+    {
+        "english": "June",
+        "greek": "Ιούνιος"
+    },
+    {
+        "english": "July",
+        "greek": "Ιούλιος"
+    },
+    {
+        "english": "August",
+        "greek": "Αύγουστος"
+    },
+    {
+        "english": "September",
+        "greek": "Σεπτέμβριος"
+    },
+    {
+        "english": "October",
+        "greek": "Οκτώβριος"
+    },
+    {
+        "english": "November",
+        "greek": "Νοέμβριος"
+    },
+    {
+        "english": "December",
+        "greek": "Δεκέμβριος"
+    }
+]

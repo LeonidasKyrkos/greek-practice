@@ -126,5 +126,17 @@
     {
         "english": "Wine",
         "greek": "κρασί"
+    },
+    {
+        "english": "Row",
+        "greek": "σειρά"
+    },
+    {
+        "english": "News",
+        "greek": "νέα"
+    },
+    {
+        "english": "Breakfast",
+        "greek": "πρωινό"
     }
 ]

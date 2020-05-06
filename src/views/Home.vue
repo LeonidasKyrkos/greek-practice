@@ -29,6 +29,10 @@
                 <h2 class="beta">Nouns</h2>
                 <questions :questions="nouns"></questions>
             </section>
+            <section class="section">
+                <h2 class="beta">Prepositions</h2>
+                <questions :questions="prepositions"></questions>
+            </section>
         </div>
     </article>
 </template>
@@ -45,6 +49,8 @@ import daysOfTheWeek from "@/data/days_of_the_week.json";
 import emotions from "@/data/emotions.json";
 import colours from "@/data/colours.json";
 import nouns from "@/data/nouns.json";
+import prepositions from "@/data/prepositions.json";
+import months from "@/data/prepositions.json";
 
 export default {
     name: "Home",
@@ -93,6 +99,15 @@ export default {
         },
         nouns() {
             return this.newArray(nouns);
+        },
+        prepositions() {
+            return this.newArray(prepositions);
+        },
+        months() {
+            return this.newArray(months);
+        },
+        daysOfTheWeek() {
+            return this.newArray(daysOfTheWeek);
         },
     },
     methods: {
